@@ -9,7 +9,7 @@ public class Aluno extends Pessoa {
 		this.turma = turma;
 	}
 	
-	public Turma getTurma() { //pegar turma
+	public Turma getTurma() { //pegar turma!
 		return turma;
 	}
 	public void setTurma(Turma turma) {
